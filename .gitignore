@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: © 2025 Alberto Previti
+#
+# SPDX-License-Identifier: CC0-1.0
+
+*.xsd
+*.xml
+*.zip
+*.csv
+*.xlsx
